@@ -1,0 +1,29 @@
+[
+  "projectUrl"
+  :
+  "https://discord.gg/ARcwsJr",
+  "provider"
+  :
+  "xKylee",
+  "name"
+  :
+  "Menu Entry Swapper yeet",
+  "description"
+  :
+  "Change the default option that is displayed when hovering over objects",
+  "id"
+  :
+  "menuentryswapperextended-plugin",
+  "releases"
+  :
+  [
+    {
+      "date": "2020-04-05",
+      "sha512sum": "A8EDAC23118F29CD3E1F9F8AB58BF7FD285823DCFA0C3780FDCEFB15BB82AC5B29104482433D87CA7895E0A092ECAE4178FDAFF05CEF83F5FF4BEB232A211B25",
+      "version": "0.0.12",
+      "url": "https://github.com/PeterRegas/plugins/blob/master/plug/menuentryswapperextended-0.0.12.jar?raw=true",
+      "requires": "0.0.1"
+    }
+  ]
+  }
+]
